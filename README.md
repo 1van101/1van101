@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1van101
+- 👋 Hi, I’m Ivan
 - 💻 I’m interested in coding 
 - 👨‍🎓 I’m currently learning Python
 - 📧 Reach me --> ivan.iv.cv@gmail.com
