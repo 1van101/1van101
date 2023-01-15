@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ivan
 - 💻 I’m interested in coding 
-- 👨‍🎓 I’m currently learning Python
+- 👨‍🎓 I’m currently learning Python, MySQL, HTML & CSS and JS
 - 📧 Reach me --> ivan.iv.cv@gmail.com
