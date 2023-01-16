@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 💻 I’m interested in coding 
-- 👨‍🎓 I’m currently learning <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>, MySQL, HTML & CSS and JS
+- 👨‍🎓 I’m currently learning <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>, MySQL, <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> & <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> and JS
 - 📧 Reach me --> ivan.iv.cv@gmail.com
 
 
