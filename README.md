@@ -6,7 +6,7 @@
 
 ### 🟠 👋 Hi, I’m Ivan
 ### 🟠 💻 I’m interested in coding 
-### 🟠 📧 Reach me --> <a href="mailto:ivan.iv.cv@gmail.com">ivan.iv.cv@gmail.com</a>
+### 🟠 📧 Reach me on email --> <a href="mailto:ivan.iv.cv@gmail.com">ivan.iv.cv@gmail.com</a>
 
 <hr />
 
