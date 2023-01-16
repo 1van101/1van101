@@ -1,6 +1,14 @@
 - 👋 Hi, I’m Ivan
 - 💻 I’m interested in coding 
-- 👨‍🎓 I’m currently learning <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>, MySQL, <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> & <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> and JS
+- 👨‍🎓 I’m currently learning 
+- <img height=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+- , 
+- MySQL, 
+- <img height=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+-  & 
+-  <img height=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+-  and 
+-  JS
 - 📧 Reach me --> ivan.iv.cv@gmail.com
 
 
