@@ -9,3 +9,5 @@
 -My skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,mysql,js)](https://skillicons.dev)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1van101&layout=compact)](https://git.io/streak-stats)
