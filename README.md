@@ -1,3 +1,9 @@
+
+
+<img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="this slowpoke moves"  width="1200" height="250" alt="404 image"/>
+
+
+
 ### 🟠 👋 Hi, I’m Ivan
 ### 🟠 💻 I’m interested in coding 
 ### 🟠 📧 Reach me --> <a href="mailto:ivan.iv.cv@gmail.com">ivan.iv.cv@gmail.com</a>
