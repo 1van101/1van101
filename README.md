@@ -7,4 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1van101&layout=compact)](https://github.com/1van101/github-readme-stats)
 
 -My skills
+
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,mysql,js)](https://skillicons.dev)
