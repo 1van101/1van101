@@ -10,7 +10,7 @@
 
 <hr />
 
-### :fire: My Skills :
+### :hammer_and_wrench: My Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,mysql,js)](https://skillicons.dev)
 
@@ -22,4 +22,4 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1van101&langs_count=8)](https://github.com/1van101/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1van101&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
