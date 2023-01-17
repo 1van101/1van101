@@ -12,7 +12,7 @@
 
 ### :hammer_and_wrench: My Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,mysql,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,mysql,js,vscode)](https://skillicons.dev)
 
 <hr />
 
