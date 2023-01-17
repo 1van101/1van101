@@ -18,7 +18,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1van101&layout=compact)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1van101&layout=compact)](https://github.com/1van101?tab=repositories)
 
 <br />
 
