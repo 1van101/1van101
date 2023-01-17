@@ -20,4 +20,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1van101&layout=compact)](https://git.io/streak-stats)
 
+<br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1van101&langs_count=8)](https://github.com/1van101/github-readme-stats)
