@@ -20,6 +20,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1van101&layout=compact)](https://github.com/1van101?tab=repositories)
 
-<br />
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=1van101&langs_count=8)](https://github.com/1van101?tab=repositories)
