@@ -22,4 +22,4 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1van101&langs_count=8)](https://github.com/1van101?tab=repositories)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=1van101&langs_count=8)](https://github.com/1van101?tab=repositories)
