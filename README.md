@@ -6,7 +6,7 @@
 
 ### 🟠 👋 Hi, I’m Ivan
 ### 🟠 📧 Reach me on email --> <a href="mailto:ivan.iv.cv@gmail.com">ivan.iv.cv@gmail.com</a>
-### 🟠 💻 LeetCode profile --> https://leetcode.com/1van101/
+### 🟠 🧑‍💻 LeetCode profile --> https://leetcode.com/1van101/
 ### 🟠 💻 HackerRank profile --> https://www.hackerrank.com/ivan_iv_cv
 
 <hr />
