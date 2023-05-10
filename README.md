@@ -24,5 +24,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1van101)](https://github.com/1van101?tab=repositories)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=1van101&color=blue)
 
