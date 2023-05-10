@@ -13,6 +13,7 @@
 
 ### :hammer_and_wrench: My Skills :
 
+
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,mysql,js,vscode,django,docker,github,postgres,postman,sqlite)](https://skillicons.dev)
 
 <hr />
@@ -22,4 +23,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1van101&layout=compact)](https://github.com/1van101?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1van101)](https://github.com/1van101?tab=repositories)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
